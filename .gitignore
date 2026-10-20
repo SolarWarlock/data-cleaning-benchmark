@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# MLflow and tracking
+mlruns/
+mlflow.db
+.ipynb_checkpoints/
+
+# Data and artifacts (exclude big raw files and temp runs)
+data/raw/*.csv
+data/processed/*.parquet
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# CodeCarbon logs
+emissions.csv
+.codecarbon/
+
+# OS specific
+.DS_Store
+Thumbs.db
