@@ -145,26 +145,5 @@ python scripts/generate_figures.py
 
 ---
 
-## 📖 Цитирование (Citation)
-
-```bibtex
-@article{akhmetshin2026costbenefit,
-  author    = {Akhmetshin, Rinat R.},
-  title     = {Cost-benefit analysis of data cleaning strategies for machine learning models: break-even criteria in tabular data classification},
-  journal   = {Bulletin of the Adyghe State University. Series: Natural-Mathematical and Technical Sciences},
-  year      = {2026},
-  number    = {4},
-  pages     = {1--18},
-  issn      = {2074-1545},
-  language  = {russian}
-}
-```
-
-```text
-Ахметшин Р. Р. Оценка соотношения затрат и выгод стратегий очистки данных для моделей машинного обучения: критерии безубыточности при классификации табличных данных // Вестник Адыгейского государственного университета. Сер. Естественно-математические и технические науки. – 2026. – № 4. – С. 1–18.
-```
-
----
-
 ## 📜 Лицензия
 Код и данные распространяются под лицензией [MIT](LICENSE).
